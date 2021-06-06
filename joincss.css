@@ -1,0 +1,48 @@
+body
+{
+font-family:b morvarid;
+display:inline;
+background-color:#e2e6d9;
+}
+.header
+{
+background-color:#808000;
+padding:16px;
+font-size:18px;
+}
+li
+{
+display:inline;
+padding:20px;
+color:white;
+}
+
+a:link{
+color: #ffffff;	 
+}
+a:visited{
+color: #ffffff;	
+}
+a:hover{
+color: #ffffff;	
+}
+a:active{
+color: #333333;
+}
+
+.foder
+{
+color:white;
+}
+
+.as
+{
+display:inline;
+font-size:24px;
+font-family:B morvarid;
+color:white
+}
+.border
+{
+Border-radius:12px;
+ }
